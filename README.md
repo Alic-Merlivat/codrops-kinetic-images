@@ -1,3 +1,7 @@
+
+
+
+
 # Kinetic Images — my version
 
 My take on the **Kinetic Images** WebGL demo from [Codrops](https://tympanus.net/codrops/), with my own pictures swapped in.
@@ -21,6 +25,8 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Banner:** `public/banner.jpg`.
 
 ![The kinetic images tower with my burger pictures and the Kingu banner](docs/screenshot.png)
+
+https://github.com/user-attachments/assets/caaf343e-ea17-47f0-8ce3-daa720924727
 
 ## Build
 
