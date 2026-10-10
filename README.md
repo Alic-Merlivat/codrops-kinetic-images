@@ -20,6 +20,8 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Gallery images:** `public/images/img1.webp` … `img13.webp`. Replace a file with one of the same name, or add new files and list them in `src/data/images.js`.
 - **Banner:** `public/banner.jpg`.
 
+![The kinetic images tower with my burger pictures and the Kingu banner](docs/screenshot.png)
+
 ## Build
 
 ```bash
